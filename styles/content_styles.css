@@ -1,0 +1,22 @@
+.content {
+  margin: 0.3cm;
+}
+
+.content h2 {
+  padding-bottom: 0.1cm;
+  color: rgba(34, 17, 0, 0.9);
+  border-bottom: 0.04cm solid rgba(102, 119, 85, 0.9);
+}
+
+.content-section h4, .content-section h5 {
+  margin: 0.2cm 0;
+}
+
+.content-section h4 {
+  color: rgba(34, 17, 0, 0.9);
+}
+
+.content-section ul {
+  margin-top: 0.2cm;
+  padding-left: 0.5cm;
+}

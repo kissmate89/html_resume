@@ -1,0 +1,66 @@
+.sidebar {
+  height: 29.63cm;
+  width: 9cm;
+  background-color: rgba(102, 119, 85, 0.9);
+  color: #FFF;
+}
+
+.sidebar-header {
+  text-align: center;
+}
+
+.profile-img {
+  height: 7cm;
+  margin: 0.5cm;
+  border-radius: 50%;
+}
+
+.sidebar-header h1 {
+  margin: 0;
+  font-size: 3em;
+}
+
+.sidebar-header p {
+  margin: 0.2cm 0.3cm;
+}
+
+.sidebar-content > * {
+  padding: 0 0.3cm 0 0.5cm;
+}
+
+.sidebar-content h2 {
+  padding-bottom: 0.1cm;
+  padding-left: 0;
+  margin-left: 0.3cm;
+  margin-right: 0.3cm;
+  border-bottom: 0.04cm solid #FFF;
+}
+
+.profile-data {
+  list-style: none;
+  margin-bottom: 1.2cm;
+}
+
+.profile-data img {
+  width: 0.8cm;
+  margin: 0.1cm;
+  margin-left: 0;
+  vertical-align: middle;
+  color: #FFF;
+}
+
+.profile-data li {
+  margin-top: 0.2cm;
+}
+
+.sidebar-content .skill-section h4 {
+  margin: 0.1cm 0;
+}
+
+.sidebar-content .skill-section ul, .sidebar-content .skill-section p {
+  margin-top: 0.2cm;
+}
+
+.sidebar-content .skill-section ul {
+  padding-left: 0.5cm;
+}
