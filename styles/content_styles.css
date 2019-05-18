@@ -3,7 +3,8 @@
 }
 
 .content h2 {
-  padding-bottom: 0.1cm;
+  padding-bottom: 0;
+  margin-bottom: 0.2cm;
   color: rgba(34, 17, 0, 0.9);
   border-bottom: 0.04cm solid rgba(102, 119, 85, 0.9);
 }
@@ -13,7 +14,12 @@
 }
 
 .content-section h4 {
+  margin-bottom: 0;
   color: rgba(34, 17, 0, 0.9);
+}
+
+.content-section h5 {
+  margin-top: 0.1cm;
 }
 
 .content-section ul {
